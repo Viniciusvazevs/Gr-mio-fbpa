@@ -1,8 +1,18 @@
 p {
     text-align: center;
-    background: #CCCCCC;
-}
+    
+} 
 body{
   background: #037ffc;
+
+}
+h1{
+
+   text-align: center;
+
+}
+em strong {
+
+  color:aliceblue
 
 }
